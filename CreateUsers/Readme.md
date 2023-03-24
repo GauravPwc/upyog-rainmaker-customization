@@ -8,7 +8,7 @@ Download and install from [nodejs](https://nodejs.org/en/#home-downloadhead)
 
 ## Download Code
 
-Download the create user from the [github](https://github.com/egovernments/ukd-rainmaker-customization) or
+Download the create user from the [github](https://github.com/upyog/upyog-rainmaker-customization) or
 
 If git is installed use below command to get code
 
@@ -56,8 +56,8 @@ employeeStatus
 Example
 
 ```
-uk.haridwar,Deepu,9999999989,Haridwar,Sunil,26/03/2000,MALE,EMPLOYEE|TL_APPROVER,26/03/2019,ADM,RO01,City,uk.haridwar,PERMANENT,EMPLOYED
-uk.haridwar,Susanth,9999999989,Haridwar,Sunil,26/03/2000,MALE,EMPLOYEE|TL_APPROVER,26/03/2019,ADM,RO01,City,uk.haridwar,PERMANENT,EMPLOYED
+pg.citya,Deepu,9999999989,City A,Sunil,26/03/2000,MALE,EMPLOYEE|TL_APPROVER,26/03/2019,ADM,RO01,City,pg.citya,PERMANENT,EMPLOYED
+pg.citya,Susanth,9999999989,City A,Sunil,26/03/2000,MALE,EMPLOYEE|TL_APPROVER,26/03/2019,ADM,RO01,City,pg.citya,PERMANENT,EMPLOYED
 ```
 
 ## Allowed Values
